@@ -22,7 +22,7 @@ This project presents a Smart Home Automation System utilizing an ESP32 microcon
 
 ## Circuit Diagram
 
-![Circuit Diagram](assets/circuit_diagram.png)
+![Circuit Diagram](assets/circuits_diagram.png)
 
 *Note: Ensure all connections are secure and correct to prevent damage.*
 
