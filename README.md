@@ -43,8 +43,6 @@ The code initializes the ESP32, connects to Wi-Fi and Blynk, and sets up sensors
 - **Sensor Monitoring:** Periodically reads temperature, humidity, and motion status, sending updates to Blynk.
 - **Manual Control:** Monitors the pushbutton to toggle Relay 1 and updates Blynk accordingly.
 
-## Getting Started
+## Poject simulation
 
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/your-username/smart-home-automation.git
+Check this link : https://wokwi.com/projects/383769019613060097?fbclid=IwY2xjawJI4sBleHRuA2FlbQIxMAABHU42doCu8R0yxBWeWGGVk5cBd9qUyjVf3AvsV-2y-uCM1Ie4w68sa-u-hQ_aem_GxIY08xW-xTrUPXJh8lmYA
